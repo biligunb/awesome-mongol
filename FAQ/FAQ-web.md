@@ -1,7 +1,7 @@
 # Frequently Asked Questions (FAQ) about web
-- A list of common questions and answers that are compiled in order to provide helpful information to users
 
 ---
+
 ### Basics
 1. **What is internet?**
    - a global network of computer networks that connects millions of devices and computers around the world
@@ -29,4 +29,4 @@
    - It involves storing the files and data that make up a website on a server that is connected to the internet, 
    - so that anyone with an internet connection can access the website by entering its domain name in a web browser.
 
-![https://www.hostpapa.com/blog/web-hosting/definitive-guide-to-web-hosting-best-practices-for-b2b-companies/](./resources/images/how_web_hosting_works.png)
+![https://www.hostpapa.com/blog/web-hosting/definitive-guide-to-web-hosting-best-practices-for-b2b-companies/](../resources/images/how_web_hosting_works.png)
