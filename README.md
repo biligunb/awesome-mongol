@@ -7,4 +7,4 @@ A curated list of awesome things curated by the Mongolian community
 
 *A list of common questions and answers that are compiled in order to provide helpful information to users*
 
-* [FAQ web](https://github.com/biligunb/awesome-mongol/blob/main/FAQ-web.md) - FAQ about web.
+* [FAQ web](./FAQ/FAQ-web.md) - FAQ about web.

@@ -2,10 +2,10 @@
 
 ---
 
-### Basics
-1. **What is internet?**
-   - a global network of computer networks that connects millions of devices and computers around the world
-   - internet is based on a set of protocols and standards known as the [Internet Protocol Suite (TCP/IP)](https://en.wikipedia.org/wiki/Internet_protocol_suite) which enables data to be transmitted between devices and networks
+### **Section 1 - basics**
+1. **What is internet?** - **Inter***connected* **Net***works*
+   - [Internet](https://en.wikipedia.org/wiki/Internet) is a global network of computer networks that connects millions of devices and computers around the world
+   - It is based on a set of protocols and standards known as the [Internet Protocol Suite (TCP/IP)](https://en.wikipedia.org/wiki/Internet_protocol_suite) which enables data to be transmitted between devices and networks
    - origins of the internet date back to the 1960s, when the U.S. Department of Defense developed a network called [ARPANET](https://en.wikipedia.org/wiki/ARPANET)
 1. **What is web?**
    - the term "web" typically refers to the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) (WWW), which is a system of interlinked hypertext documents that are accessed through the internet
@@ -30,3 +30,11 @@
    - so that anyone with an internet connection can access the website by entering its domain name in a web browser.
 
 ![https://www.hostpapa.com/blog/web-hosting/definitive-guide-to-web-hosting-best-practices-for-b2b-companies/](../resources/images/how_web_hosting_works.png)
+
+---
+
+### **Section 2 - x**
+1. **Do I need a web?**
+   - see decision tree image-1!
+1. **What kind of web do I need?**
+   - see decision tree image-2!
