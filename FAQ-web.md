@@ -29,4 +29,4 @@
    - It involves storing the files and data that make up a website on a server that is connected to the internet, 
    - so that anyone with an internet connection can access the website by entering its domain name in a web browser.
 
-![How web hosting works](./resources/images/how_web_hosting_works.png)
+![https://www.hostpapa.com/blog/web-hosting/definitive-guide-to-web-hosting-best-practices-for-b2b-companies/](./resources/images/how_web_hosting_works.png)
