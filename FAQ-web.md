@@ -3,9 +3,13 @@
 
 ---
 ### Basics
+1. **What is internet?**
+   - a global network of computer networks that connects millions of devices and computers around the world
+   - internet is based on a set of protocols and standards known as the [Internet Protocol Suite (TCP/IP)](https://en.wikipedia.org/wiki/Internet_protocol_suite) which enables data to be transmitted between devices and networks
+   - origins of the internet date back to the 1960s, when the U.S. Department of Defense developed a network called [ARPANET](https://en.wikipedia.org/wiki/ARPANET)
 1. **What is web?**
-   - the term "web" typically refers to the World Wide Web (WWW), which is a system of interlinked hypertext documents that are accessed through the internet
-   - The WWW was created by Tim Berners-Lee in 1989 as a way to share information among researchers at CERN
+   - the term "web" typically refers to the [World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web) (WWW), which is a system of interlinked hypertext documents that are accessed through the internet
+   - The WWW was created by [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) in 1989 as a way to share information among researchers at [CERN](https://en.wikipedia.org/wiki/CERN)
    - It has since become a global platform for information exchange, communication, and commerce.
 1. **How does web work?**
    - The web consists of a vast collection of web pages and websites that are hosted on servers all over the world. 
@@ -24,3 +28,5 @@
    - a service that allows individuals and organizations to make their website accessible on the internet. 
    - It involves storing the files and data that make up a website on a server that is connected to the internet, 
    - so that anyone with an internet connection can access the website by entering its domain name in a web browser.
+
+![How web hosting works](./resources/images/how_web_hosting_works.png)
