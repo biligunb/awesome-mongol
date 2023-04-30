@@ -3,8 +3,8 @@ A curated list of awesome things curated by the Mongolian community
 
 ---
 
-## 1. Category
+## 1. FAQ
 
-*Description*
+*A list of common questions and answers that are compiled in order to provide helpful information to users*
 
-* [name](link) - Description.
+* [FAQ web](https://github.com/biligunb/awesome-mongol/blob/main/FAQ-web.md) - FAQ about web.
