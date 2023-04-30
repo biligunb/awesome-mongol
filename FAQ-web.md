@@ -12,12 +12,12 @@
    - These pages are linked together by hyperlinks, which allow users to navigate between pages and websites by clicking on links. 
    - The web is accessed through web browsers such as Chrome, Firefox, and Safari, which interpret and display web pages to users.
 1. **What is web page, website, web application and web system?**
-   - A document that is part of a website and is designed to be displayed in a web browser.
-   - A collection of related web pages that are hosted on a web server and can be accessed through the internet.
-   - A software application that is accessed over the internet through a web browser or a web-based interface.
-   - A broader term than a web application, as it includes all types of software systems that can be accessed over the internet.
+   - Web page: A document that is part of a website and is designed to be displayed in a web browser.
+   - Web site: A collection of related web pages that are hosted on a web server and can be accessed through the internet.
+   - Web application: A software application that is accessed over the internet through a web browser or a web-based interface.
+   - Web system: A broader term than a web application, as it includes all types of software systems that can be accessed over the internet.
 1. **What is domain name?**
-   - A domain name is a unique and human-readable identifier that is used to locate and access a website or other resources on the internet. 
+   - A domain name is a unique and human-readable identifier that is used to locate and access a "website" on the internet. 
    - It is essentially the address of a website, similar to a physical address of a building. 
    - Domain names are used to identify and distinguish one website from another.
 1. **What is domain hosting? (or web hosting)**
